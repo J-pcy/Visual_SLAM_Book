@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/peng/RGBD_SLAM/Visual_SLAM_Book/imageBasics/imageBasics.cpp
+iostream
+-
+chrono
+-
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+

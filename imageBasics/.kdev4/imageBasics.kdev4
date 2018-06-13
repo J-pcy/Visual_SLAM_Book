@@ -4,12 +4,12 @@ Current Build Directory Index=0
 ProjectRootRelative=./
 
 [CMake][CMake Build Directory 0]
-Build Directory Path=file:///home/peng/RGBD_SLAM/Visual_SLAM_Book/useSophus/build
+Build Directory Path=file:///home/peng/RGBD_SLAM/Visual_SLAM_Book/imageBasics/build
 Build Type=Debug
 CMake Binary=file:///usr/bin/cmake
 Environment Profile=
 Extra Arguments=
-Install Directory=file:///usr/local
+Install Directory=
 
 [Launch]
 Launch Configurations=
